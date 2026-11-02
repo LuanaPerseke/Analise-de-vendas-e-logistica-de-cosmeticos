@@ -1,4 +1,3 @@
-[Documentação do Projeto Cosméticos.md](https://github.com/user-attachments/files/34255926/Documentacao.do.Projeto.Cosmeticos.md)
 # Análise Geral e Logística de Cosméticos
 
 Uma solução de Business Intelligence e Engenharia de Dados desenvolvida para analisar vendas, receita, custos, fornecedores, logística e qualidade em uma operação de produtos de cuidados pessoais. O projeto utiliza SQL Server para importar e tratar os dados de origem, estruturar a tabela fato e as dimensões e preparar o modelo para análise no Power BI. O dashboard é dividido em **duas páginas interativas**, conectadas por botões de navegação com setas laterais.
