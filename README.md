@@ -284,7 +284,7 @@ Esta página reúne os principais indicadores comerciais e financeiros, além de
 
 ### Página 2: Eficiência Logística & Qualidade
 
-<img width="1325" height="742" alt="Dashboard_Cosmeticos_pg2" src="https://github.com/user-attachments/assets/d2ba5f37-f1f3-4bab-b8c9-e3e319252c65" />
+<img width="1322" height="737" alt="Dashboard_Cosmeticos_pg2" src="https://github.com/user-attachments/assets/c3e0d63d-5be6-439c-a4dd-e5231df935e7" />
 
 Esta página concentra indicadores operacionais, comparação de fornecedores e acompanhamento da qualidade e do transporte.
 
